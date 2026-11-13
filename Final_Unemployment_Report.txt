@@ -1,0 +1,57 @@
+
+UNEMPLOYMENT ANALYSIS WITH PYTHON
+CODEALPHA INTERNSHIP - TASK 2
+
+Author: Rahul Bera
+
+Total Records: 740
+Total Regions: 28
+
+Average Unemployment Rate: 11.79%
+Highest Unemployment Rate: 76.74%
+Lowest Unemployment Rate: 0.00%
+
+Most Affected Region: Tripura
+Least Affected Region: Meghalaya
+
+COVID-19 PERIOD ANALYSIS:
+COVID Period
+Before COVID           9.509534
+During/After COVID    17.774363
+
+REGION-WISE ANALYSIS:
+Region
+Tripura             28.350357
+Haryana             26.283214
+Jharkhand           20.585000
+Bihar               18.918214
+Himachal Pradesh    18.540357
+Delhi               16.495357
+Jammu & Kashmir     16.188571
+Chandigarh          15.991667
+Rajasthan           14.058214
+Uttar Pradesh       12.551429
+Punjab              12.031071
+Puducherry          10.215000
+Kerala              10.123929
+Tamil Nadu           9.284286
+Goa                  9.274167
+Chhattisgarh         9.240357
+West Bengal          8.124643
+Telangana            7.737857
+Maharashtra          7.557500
+Andhra Pradesh       7.477143
+Madhya Pradesh       7.406429
+Sikkim               7.249412
+Karnataka            6.676071
+Gujarat              6.663929
+Uttarakhand          6.582963
+Assam                6.428077
+Odisha               5.657857
+Meghalaya            4.798889
+
+CONCLUSION:
+The project analyzes unemployment trends in India
+using Python, Pandas, NumPy, Matplotlib and Seaborn.
+It explores regional differences, COVID-19 impact
+and monthly unemployment patterns.
